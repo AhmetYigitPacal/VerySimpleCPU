@@ -2,8 +2,8 @@
 The object of this project is to design, implement, verify and synthesize a fully
 functional Very Simple CPU (VSCPU) using Verilog HDL. The design will support the
 standard VSCPU instruction set architecture (ISA) and will be extended with two new
-instructions: SUB and SUBi.
-The EDAPLAYGROUND link of the project: [https://edaplayground.com/x/RD5](9https://edaplayground.com/x/RD59)
+instructions: SUB and SUBi.  
+The EDAPLAYGROUND link of the project: [https://edaplayground.com/x/RD59](9https://edaplayground.com/x/RD59)
 
 ## Full Datapath and Control Signal Explanation
 The design has 5 states: Fetch, Decode, Load R1, Load R2 and Execute states. Below
